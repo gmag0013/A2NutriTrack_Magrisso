@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">A1_Grace_35721383</string>
+    <string name="app_title">NutriCoach AI</string>
+
+    <string name="title_activity_login_screen">LoginScreen</string>
+    <string name="title_activity_food_intake_questonnaire">FoodIntakeQuestonnaire</string>
+    <string name="title_activity_food_intake_questions">FoodIntakeQuestions</string>
+    <string name="title_activity_home_screen">HomeScreen</string>
+    <string name="title_activity_insights_breakdown">InsightsBreakdown</string>
+    <string name="title_activity_home_screen1">HomeScreen1</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Gemini AI prompt strings -->
+    <string name="label_prompt">Prompt</string>
+    <string name="action_go">Ask Gemini</string>
+    <string name="prompt_placeholder">Generate a short encouraging message to help someone improve their fruit intake.</string>
+    <string name="results_placeholder">Inspirational Message</string>
+</resources>
